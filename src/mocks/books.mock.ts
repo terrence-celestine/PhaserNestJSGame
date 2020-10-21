@@ -5,4 +5,5 @@ export const BOOKS = [
   { id: 4, title: 'Fourth book', description: "This is the description for the fourth book", author: 'Christian nwamba' },
   { id: 5, title: 'Fifth book', description: "This is the description for the fifth book", author: 'Chris anderson' },
   { id: 6, title: 'Sixth book', description: "This is the description for the sixth book", author: 'Olususi Oluyemi' },
+   { id: 6, title: 'Seventh book', description: "This is the description for the seventh book", author: 'Olususi Oluyemi' }
 ];
